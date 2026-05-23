@@ -1,2 +1,0 @@
-Usuario: Juan
-Saldo final: $10.0
